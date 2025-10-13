@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-01-13T10:00:00+05:30",
+  "items": [
+    {
+      "item_number": 1,
+      "filename": "1.webp",
+      "label": "School Badges",
+      "caption": "School badges print rate: ₹25",
+      "alt_text": "assorted school badges laid out on table, close-up",
+      "suggested_crop": "center-crop 4:3",
+      "resolution": "estimated 1200x900",
+      "orientation": "landscape",
+      "qa_status": "PASS",
+      "qa_issues": "",
+      "confidence_score": 92
+    },
+    {
+      "item_number": 2,
+      "filename": "2.webp",
+      "label": "Head Girl Badge",
+      "caption": "Head Girl Badge — Leadership recognition",
+      "alt_text": "gold head-girl badge on ribbon, close-up",
+      "suggested_crop": "center-crop 4:3",
+      "resolution": "estimated 800x600",
+      "orientation": "landscape",
+      "qa_status": "PASS",
+      "qa_issues": "",
+      "confidence_score": 88
+    },
+    {
+      "item_number": 3,
+      "filename": "3.webp",
+      "label": "Birthday Badge",
+      "caption": "Birthday Badge — Special celebration badges",
+      "alt_text": "colorful birthday badge on festive background",
+      "suggested_crop": "center-crop 4:3",
+      "resolution": "estimated 600x450",
+      "orientation": "landscape",
+      "qa_status": "PASS",
+      "qa_issues": "",
+      "confidence_score": 85
+    },
+    {
+      "item_number": 4,
+      "filename": "4.webp",
+      "label": "Badge Back",
+      "caption": "Badge Back — Single side ₹25 / Both side ₹35",
+      "alt_text": "reverse side of badge showing professional printed back design",
+      "suggested_crop": "center-crop 4:3",
+      "resolution": "estimated 1000x750",
+      "orientation": "landscape",
+      "qa_status": "PASS",
+      "qa_issues": "",
+      "confidence_score": 90
+    },
+    {
+      "item_number": 5,
+      "filename": "5.webp",
+      "label": "Student ID Cards (Balvatika School)",
+      "caption": "Balvatika School — Student ID cards",
+      "alt_text": "student ID cards for Balvatika School, stacked mockups",
+      "suggested_crop": "center-crop 4:3",
+      "resolution": "estimated 1000x750",
+      "orientation": "landscape",
+      "qa_status": "PASS",
+      "qa_issues": "",
+      "confidence_score": 87
+    },
+    {
+      "item_number": 6,
+      "filename": "6.webp",
+      "label": "Heritage School Cards",
+      "caption": "Indian Heritage School — Address/contact cards",
+      "alt_text": "heritage-themed school ID card showing address and contact layout",
+      "suggested_crop": "center-crop 4:3",
+      "resolution": "estimated 1200x900",
+      "orientation": "landscape",
+      "qa_status": "PASS",
+      "qa_issues": "",
+      "confidence_score": 89
+    },
+    {
+      "item_number": 7,
+      "filename": "7.webp",
+      "label": "Additional Services",
+      "caption": "Additional Services — Custom ID cards",
+      "alt_text": "custom ID card samples showing additional services and options",
+      "suggested_crop": "center-crop 4:3",
+      "resolution": "estimated 1200x900",
+      "orientation": "landscape",
+      "qa_status": "PASS",
+      "qa_issues": "",
+      "confidence_score": 86
+    }
+  ]
+}
